@@ -6,62 +6,62 @@ navbar_entries:
     url: blog
 
   - title: website
-    url: https://www.abhinav.co
+    url: https://github.com/drewstephensdesigns
 
 project_entries:
-  - title: Project 1
-    url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+  - title: AFI Explorer
+    url: https://github.com/drewstephensdesigns/AFIExplorer/blob/master/README.md
+    desc: Quickly reference Air Force publications on the go
 
-  - title: Project 2
-    url: overview-post
-    desc: Projects are shown in card layout
+  - title: AstroFeed
+    url: https://github.com/drewstephensdesigns/AstroFeed
+    desc: Work in Progress Space Launch app utilizing the SpaceDevs network
 
-  - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
+  - title: National Park Explorer
+    url: ohttps://github.com/drewstephensdesigns/ParkExplorer/blob/main/README.md
+    desc: Sample project demonstrating the use of the U.S National Park Service API
 
-  - title: Project 4
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
+#  - title: Project 4
+#    url: overview-post
+#    desc: This project uses highlight markup, configured in _data/home.yml
+#    highlight: WIP
 
-  - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
+#  - title: Project 5
+#    url: overview-post
+#    desc: Moonwalk also has horizontal list (used in header and footer)
+#    highlight: WIP
 
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
+#  - title: Project 6
+#    url: overview-post
+#    desc: It also has a scalable vertical list (in case you need it)
 
-old_project_entries:
-  - title: Soopr
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
-    highlight: NEW
+#old_project_entries:
+#  - title: Soopr
+#    url: https://www.soopr.co
+#    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
+#    highlight: NEW
 
-  - title: Cookie
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
+#  - title: Cookie
+#    url: https://github.com/abhinavs/cookie
+#    desc: An open source landing website with supporting pages and integrated blog
 
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
+#  - title: Moonwalk
+#    url: https://github.com/abhinavs/moonwalk
+#    desc: A fast and minimalist Jekyll blog theme with clean dark mode
 
-  - title: Humangous
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
+#  - title: Humangous
+#    url: https://www.humangous.co
+#    desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
+ # - title: abhinav's homepage
+ #   url: https://www.abhinav.co
 
   - title: twitter
-    url: https://twitter.com/abhinav
+    url: https://twitter.com/coding_drew
 
   - title: github
-    url: https://github.com/abhinavs
+    url: https://github.com/drewstephensdesigns
 
   - title: feed
     url: feed.xml
